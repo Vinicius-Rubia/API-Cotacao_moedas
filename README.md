@@ -2,7 +2,7 @@
 
 Esse projeto consiste em pegar cotações do Dólar, Euro e Bitcoin
 
-As maneiras de pegar as cotações foi da seguinte maneira:
+As maneiras de obter as cotações foram as seguintes:
 
 - Cotação das atual das moedas
 - Cotação do Dólar nos últimos 30 dias
